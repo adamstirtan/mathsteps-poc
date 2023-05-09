@@ -1,0 +1,1 @@
+This is a simple PoC of using https://github.com/google/mathsteps to perform some simple mathematic step by step solutions. I wanted to see what level of math it supported and was disappointed to find out that all the high-level math was added after it was privately forked to be used on socratic.org.
